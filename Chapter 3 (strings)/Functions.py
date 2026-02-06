@@ -1,10 +1,10 @@
 string = "Rizwan Alim Pathan"
-
+string2 = "***rizwan****"
 print(len(string)) #TO to get length of the string
 
 print(string.split()) #splits all the words of the string into an indivial words
 
-print(string.strip()) #connects all the single words in the string indicated by 'rizwan' 'alim' 'pathan'
+print(string2.strip("a")) #Removes a specific character from start and end of the string the string 
 
 print(string.upper(),string.lower()) #converts string into uppercase and lowercase 
 
