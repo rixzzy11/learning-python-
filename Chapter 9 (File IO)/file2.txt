@@ -1,0 +1,1 @@
+Hello from a python code , we are writing data in the file.
